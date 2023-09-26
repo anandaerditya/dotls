@@ -1,6 +1,6 @@
 ## Dotls
 
-![Static Badge](https://img.shields.io/badge/1.0.0.r.1-ls_version?style=for-the-badge&label=Version&labelColor=%23000000&color=%23f35b54)
+![Static Badge](https://img.shields.io/badge/1.0.0--Release-ls_version?style=for-the-badge&label=Version&labelColor=%23000000&color=%23f35b54)
 ![Static Badge](https://img.shields.io/badge/8.x_and_up-ls_version?style=for-the-badge&label=Min%20pHP%20Version&labelColor=%23000000&color=%2300b89f)
 ![Static Badge](https://img.shields.io/badge/MIT-ls_licence?style=for-the-badge&label=Licence&labelColor=%23000000&color=%23f1c700)
 ![Static Badge](https://img.shields.io/badge/anandaerditya-ls_author?style=for-the-badge&label=Author&labelColor=%23000000&color=%232dcdd2)
