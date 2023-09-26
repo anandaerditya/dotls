@@ -1,0 +1,19 @@
+{
+    "name": "anandaerditya/dotls",
+    "description": "Package for reading and fetch dot-ls (.ls) config file into associative array.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anandaerditya\\Dotls\\": "src/"
+        },
+    },
+    "authors": [
+        {
+            "name": "Ananda Erditya",
+            "email": "anandaerditya@luckiestspace.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
